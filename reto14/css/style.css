@@ -1,0 +1,38 @@
+img{
+    width: 70vw;
+    height: 90vh;
+    padding-left: 12vw;
+    z-index: 1;
+    position: absolute;
+}
+
+table{
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid yellow;
+    border-left: 2px solid yellow;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1.5px solid black;
+    width: 25vw;
+    border-collapse: collapse;
+}
+
+td{
+    background-color: yellow;
+}
+
+#tabla{
+    z-index: 2;
+    position: absolute;
+    margin-top: 35vh;
+    margin-left: 20vw;
+}
+
+#encabezado{
+    background-color: white;
+    font-weight: bold;
+    text-align: center;
+}

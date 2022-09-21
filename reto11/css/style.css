@@ -1,0 +1,28 @@
+table{
+    border-style: unset;
+    border-top: 1.5px solid rgb(211, 210, 210);
+    border-left: 1.5px solid rgb(211, 210, 210);
+    border-bottom: 1.5px solid grey;
+    border-right: 1.5px solid grey;
+    border-collapse: collapse;
+}
+
+th,td{
+    border: 1px solid rgb(84, 84, 248);
+    color: white;
+    margin: 0 0 0 0;
+    border-collapse: collapse;
+    border-bottom: 0;
+}
+
+.title{
+    background-color: green;
+}
+
+.row2{
+    background-color: green;
+}
+
+.row1, .row3{
+    background-color: rgb(98, 162, 2);
+}

@@ -1,0 +1,22 @@
+table, td, th{
+    border-style: unset;
+    border: 2px solid lightblue;
+    background-color: green;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: aquamarine;
+}
+
+td, th{
+    width: 15vw;
+}
+
+.price{
+    text-align: center;
+}
+
+.sport{
+    text-align: left;
+}

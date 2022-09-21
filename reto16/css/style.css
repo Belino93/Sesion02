@@ -1,0 +1,30 @@
+table, tr, td{
+    border: 1px solid black;
+} 
+
+table{
+    width: 60vw;
+}
+
+.col1{
+    color: rgb(169, 4, 4);
+    background-color: green;
+    text-align: center;
+}
+
+.col2{
+    color: rgb(169, 4, 4);
+    background-color: salmon;
+    text-align: center;
+}
+
+.col3{
+    background-color: rgb(197, 197, 6);
+    text-align: center;
+}
+
+.col4{
+    text-align: center;
+    background-image: url(../images/huellas.jpg);
+    background-size:cover;
+}

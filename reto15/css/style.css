@@ -1,0 +1,7 @@
+#roman{
+    list-style-type: upper-roman;
+}
+
+#lower{
+    list-style-type: lower-alpha;
+}
